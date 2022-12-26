@@ -1,0 +1,8 @@
+﻿  Main.cpp
+C:\Users\PC\Desktop\CTDL_GT\UserRecommendationsWithDijkstra\UserRecommendationsWithDijkstra\graphics.h(262,11): warning C4244: '*=': conversion from 'double' to 'SHORT', possible loss of data
+C:\Users\PC\Desktop\CTDL_GT\UserRecommendationsWithDijkstra\UserRecommendationsWithDijkstra\graphics.h(263,11): warning C4244: '*=': conversion from 'double' to 'SHORT', possible loss of data
+C:\Users\PC\Desktop\CTDL_GT\UserRecommendationsWithDijkstra\UserRecommendationsWithDijkstra\Main.cpp(150,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\PC\Desktop\CTDL_GT\UserRecommendationsWithDijkstra\UserRecommendationsWithDijkstra\Main.cpp(468,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\PC\Desktop\CTDL_GT\UserRecommendationsWithDijkstra\UserRecommendationsWithDijkstra\Main.cpp(505,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\PC\Desktop\CTDL_GT\UserRecommendationsWithDijkstra\UserRecommendationsWithDijkstra\Main.cpp(771): warning C4715: 'enterUserName': not all control paths return a value
+  UserRecommendationsWithDijkstra.vcxproj -> C:\Users\PC\Desktop\CTDL_GT\UserRecommendationsWithDijkstra\x64\Debug\UserRecommendationsWithDijkstra.exe

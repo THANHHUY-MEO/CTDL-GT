@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\PC\Desktop\CTDL_GT\RobotPathWithDijkstra\RobotPathWithDijkstra\graphics.h(262,11): warning C4244: '*=': conversion from 'double' to 'SHORT', possible loss of data
+C:\Users\PC\Desktop\CTDL_GT\RobotPathWithDijkstra\RobotPathWithDijkstra\graphics.h(263,11): warning C4244: '*=': conversion from 'double' to 'SHORT', possible loss of data
+C:\Users\PC\Desktop\CTDL_GT\RobotPathWithDijkstra\RobotPathWithDijkstra\Main.cpp(277,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  RobotPathWithDijkstra.vcxproj -> C:\Users\PC\Desktop\CTDL_GT\RobotPathWithDijkstra\x64\Debug\RobotPathWithDijkstra.exe

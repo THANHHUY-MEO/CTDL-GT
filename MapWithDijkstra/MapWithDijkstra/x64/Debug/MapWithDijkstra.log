@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\PC\Desktop\CTDL_GT\MapWithDijkstra\MapWithDijkstra\graphics.h(262,11): warning C4244: '*=': conversion from 'double' to 'SHORT', possible loss of data
+C:\Users\PC\Desktop\CTDL_GT\MapWithDijkstra\MapWithDijkstra\graphics.h(263,11): warning C4244: '*=': conversion from 'double' to 'SHORT', possible loss of data
+C:\Users\PC\Desktop\CTDL_GT\MapWithDijkstra\MapWithDijkstra\Main.cpp(164,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\PC\Desktop\CTDL_GT\MapWithDijkstra\MapWithDijkstra\Main.cpp(582,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  MapWithDijkstra.vcxproj -> C:\Users\PC\Desktop\CTDL_GT\MapWithDijkstra\x64\Debug\MapWithDijkstra.exe
