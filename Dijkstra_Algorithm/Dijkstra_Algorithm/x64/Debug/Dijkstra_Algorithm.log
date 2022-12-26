@@ -1,3 +1,0 @@
-﻿  Main.cpp
-C:\Users\PC\Desktop\CTDL_GT\Dijkstra_Algorithm\Dijkstra_Algorithm\Main.cpp(135,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-  Dijkstra_Algorithm.vcxproj -> C:\Users\PC\Desktop\CTDL_GT\Dijkstra_Algorithm\x64\Debug\Dijkstra_Algorithm.exe
